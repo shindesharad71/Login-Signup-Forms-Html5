@@ -1,0 +1,11 @@
+/* login form css by Sharad Shinde */
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+section, header, footer{
+	display: block
+}
+
