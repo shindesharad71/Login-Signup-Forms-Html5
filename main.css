@@ -6,6 +6,49 @@
 }
 
 section, header, footer{
-	display: block
+	display: block;
 }
 
+body{
+    background: #9d9d9d;
+}
+
+header{
+    height: 60px;
+    background: #000000;
+}
+
+header h1{
+    color: #fff;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-left: 25px;
+}
+
+section{
+    height: 670px;
+}
+
+#login-form{
+    background: #ccc;
+    padding-top: 280px;
+    padding-bottom: 315px;
+    border: 2px solid #fff;
+    border-radius: 5px;
+    text-align: center;
+}
+
+label{
+    
+}
+
+
+footer{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    background: #000;
+    
+}
