@@ -11,7 +11,7 @@
 
 .wrapper{
     background-color: #D2FF91;
-    border: 1px solid #D3FF91;
+    border: 1px solid #D2FF91;
 }
 
 .wrapper > h1{
@@ -47,7 +47,7 @@
 
 #form-header{
     padding: 10px 0px 10px 0px;
-    border-left: 15px solid #003366;
+    border-left: 15px solid #D2FF91;
 }
 
 #form-header h1{
@@ -64,8 +64,8 @@
 
 .data input{
     font-family: monospace;
-    background: #003366;
-    color: #fff;
+    background: #D2FF91;
+    color: #000;
     border:none;
     padding: 10px;
     width: 70%;
